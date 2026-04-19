@@ -1,6 +1,6 @@
 FROM node:current-slim
 
-LABEL MAINTAINER=lao.jovel@farsiman.com
+LABEL MAINTAINER=laobarillas@gmail.com
 
 # Copy source code to /src in container
 COPY . /src
